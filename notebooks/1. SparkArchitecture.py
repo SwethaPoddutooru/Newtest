@@ -1,4 +1,8 @@
 # Databricks notebook source
+d3elete row
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC 
 # MAGIC # `Spark Components`
